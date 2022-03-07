@@ -1,0 +1,9 @@
+student=int(input("how many student:"))
+for i in range(student);
+name=int(input("enter student name:"))
+sub=int(input("how many subjects:"))
+total=0
+for i in range(sub);
+mark=int(input("enter marks"))
+total=total+marks
+print(total)
